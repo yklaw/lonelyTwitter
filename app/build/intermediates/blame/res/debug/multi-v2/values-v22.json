@@ -1,10 +1,26 @@
 {
     "logs": [
         {
-            "outputFile": "/afs/ualberta.ca/home/y/k/yklaw/Documents/CMPUT301/lonelyTwitter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
+            "outputFile": "C:\\afs\\ualberta.ca\\home\\y\\k\\yklaw\\Documents\\CMPUT301\\lonelyTwitter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
             "map": [
                 {
-                    "source": "/afs/ualberta.ca/home/y/k/yklaw/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/997fdc2bde89d36ef3d3b0e77968314e/res/values-v22/values-v22.xml",
+                    "source": "C:\\afs\\ualberta.ca\\home\\y\\k\\yklaw\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\997fdc2bde89d36ef3d3b0e77968314e\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\calvi\\Documents\\GitHub\\lonelyTwitter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\calvi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3ef184bd76fb3e0ef49061c28f3cf77a\\res\\values-v22\\values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

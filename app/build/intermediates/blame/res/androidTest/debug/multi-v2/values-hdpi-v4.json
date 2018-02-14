@@ -1,10 +1,26 @@
 {
     "logs": [
         {
-            "outputFile": "/afs/ualberta.ca/home/y/k/yklaw/Documents/CMPUT301/lonelyTwitter/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "outputFile": "C:\\Users\\calvi\\Documents\\GitHub\\lonelyTwitter\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "/afs/ualberta.ca/home/y/k/yklaw/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/997fdc2bde89d36ef3d3b0e77968314e/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "source": "C:\\Users\\calvi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3ef184bd76fb3e0ef49061c28f3cf77a\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\afs\\ualberta.ca\\home\\y\\k\\yklaw\\Documents\\CMPUT301\\lonelyTwitter\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\afs\\ualberta.ca\\home\\y\\k\\yklaw\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\997fdc2bde89d36ef3d3b0e77968314e\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

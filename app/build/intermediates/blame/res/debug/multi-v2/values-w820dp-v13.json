@@ -1,10 +1,32 @@
 {
     "logs": [
         {
-            "outputFile": "/afs/ualberta.ca/home/y/k/yklaw/Documents/CMPUT301/lonelyTwitter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "outputFile": "C:\\Users\\calvi\\Documents\\GitHub\\lonelyTwitter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "/afs/ualberta.ca/home/y/k/yklaw/Documents/CMPUT301/lonelyTwitter/app/src/main/res/values-w820dp/dimens.xml",
+                    "source": "C:\\Users\\calvi\\Documents\\GitHub\\lonelyTwitter\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "295",
+                        "endColumns": "57",
+                        "endOffsets": "348"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\afs\\ualberta.ca\\home\\y\\k\\yklaw\\Documents\\CMPUT301\\lonelyTwitter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\afs\\ualberta.ca\\home\\y\\k\\yklaw\\Documents\\CMPUT301\\lonelyTwitter\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

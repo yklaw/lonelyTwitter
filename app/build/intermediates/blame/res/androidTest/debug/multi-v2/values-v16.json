@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/afs/ualberta.ca/home/y/k/yklaw/Documents/CMPUT301/lonelyTwitter/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "C:\\afs\\ualberta.ca\\home\\y\\k\\yklaw\\Documents\\CMPUT301\\lonelyTwitter\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "/afs/ualberta.ca/home/y/k/yklaw/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/23bce42f7f049c875dbfd6b2e06d1135/res/values-v16/values-v16.xml",
+                    "source": "C:\\afs\\ualberta.ca\\home\\y\\k\\yklaw\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\23bce42f7f049c875dbfd6b2e06d1135\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,41 @@
                     }
                 },
                 {
-                    "source": "/afs/ualberta.ca/home/y/k/yklaw/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/997fdc2bde89d36ef3d3b0e77968314e/res/values-v16/values-v16.xml",
+                    "source": "C:\\afs\\ualberta.ca\\home\\y\\k\\yklaw\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\997fdc2bde89d36ef3d3b0e77968314e\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\calvi\\Documents\\GitHub\\lonelyTwitter\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\calvi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\4eb43cd3a3ef2da27324439ec7fe692e\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\calvi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3ef184bd76fb3e0ef49061c28f3cf77a\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

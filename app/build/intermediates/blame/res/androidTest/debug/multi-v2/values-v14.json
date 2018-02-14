@@ -1,10 +1,26 @@
 {
     "logs": [
         {
-            "outputFile": "/afs/ualberta.ca/home/y/k/yklaw/Documents/CMPUT301/lonelyTwitter/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v14/values-v14.xml",
+            "outputFile": "C:\\afs\\ualberta.ca\\home\\y\\k\\yklaw\\Documents\\CMPUT301\\lonelyTwitter\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v14\\values-v14.xml",
             "map": [
                 {
-                    "source": "/afs/ualberta.ca/home/y/k/yklaw/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/997fdc2bde89d36ef3d3b0e77968314e/res/values-v14/values-v14.xml",
+                    "source": "C:\\afs\\ualberta.ca\\home\\y\\k\\yklaw\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\997fdc2bde89d36ef3d3b0e77968314e\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2,7,8,9,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,331,402,485,895",
+                        "endLines": "6,7,8,14,20",
+                        "endColumns": "12,70,82,12,12",
+                        "endOffsets": "326,397,480,890,1312"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\calvi\\Documents\\GitHub\\lonelyTwitter\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\calvi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\3ef184bd76fb3e0ef49061c28f3cf77a\\res\\values-v14\\values-v14.xml",
                     "from": {
                         "startLines": "2,7,8,9,15",
                         "startColumns": "4,4,4,4,4",
