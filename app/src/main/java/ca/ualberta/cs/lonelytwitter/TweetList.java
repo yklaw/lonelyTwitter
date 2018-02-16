@@ -1,6 +1,8 @@
 package ca.ualberta.cs.lonelytwitter;
 
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 
 
 public class TweetList {
@@ -28,20 +30,31 @@ public class TweetList {
     }
 
 
-    public void addTweet(Tweet tweet) {
-
+    public void addTweet(Tweet tweet) throws IllegalArgumentException {
+        if(tweets.contains(tweet)) {
+            throw new IllegalArgumentException();
+        } else {
+            tweets.add(tweet);
+        }
     }
 
-    public Tweet getTweets(){
+    public TweetList getTweets(){
+        Collections.sort(tweets, new Comparator<Tweet>() {
+            @Override
+            public int compare(Tweet tweet, Tweet t1) {
+                return tweet.getDate().compareTo(t1.getDate());
+            }
+        });
 
+        return this;
     }
 
-    public boolean hasTweets() {
-
+    public boolean hasTweets(Tweet tweet) {
+        return tweets.contains(tweet);
     }
 
-    public void getCount() {
-
+    public int getCount() {
+        return tweets.size();
     }
 
 
